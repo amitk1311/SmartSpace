@@ -1,3 +1,16 @@
+ This is copyright project of our team 
+
+ Our Team 
+ Amit Kumar sah 2210991253
+ Adarsh Ranjan 2210991179
+ Ashish ranjan 2210991402
+ Abhishek Kumar 2210991167
+
+ Copyright - Diary No. =>  SW-20240/2026-CO
+
+ Chitkara University
+
+
 # SmartSpace
 
 SmartSpace is a full-stack space booking and community management web app. It helps users create or join communities, add shared spaces, book available slots, track booking history, and receive booking notifications.
